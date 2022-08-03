@@ -9,5 +9,5 @@ You can try to implement it yourself too!
 you have to create a pipe which retrieves the teachers and their students:
 
 - their age is greater than 44.
-- they have more then 4 students.
+- they have more than 4 students.
 - retrive the full name of the students
